@@ -5,6 +5,6 @@ Incognito animation made with SwiftUI
 Private browsing is a privacy feature in some web browsers. When operating in such a mode, the browser creates a temporary session that is isolated from the browser's main session and user data.
 
 ## Result
-![Image of Incognito]()
+![Image of Incognito](https://github.com/TheAppWizard/IncognitoSwiftUI/blob/main/Incognito%20.png)
 
 
